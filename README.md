@@ -154,7 +154,7 @@ pneumonia-detection-deep-learning/
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/amobukari/pneumonia_detection.git
 ```
 
 Navigate into the project folder:
